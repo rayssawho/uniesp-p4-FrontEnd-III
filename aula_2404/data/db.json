@@ -1,0 +1,22 @@
+{
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Rayssa",
+            "email": "rayssarte@gmail.com",
+            "curso": "Sistemas para Internet"
+        },
+        {
+            "id": 2,
+            "nome": "Marina",
+            "email": "marina@gmail.com",
+            "curso": "Engenharia de dados"
+        },
+        {
+            "id": 3,
+            "nome": "Shofia",
+            "email": "shof14@gmail.com",
+            "curso": "Engenharia da Computação"
+        }
+    ]
+}

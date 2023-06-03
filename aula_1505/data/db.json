@@ -1,0 +1,22 @@
+{
+    "noticias": [
+        {
+            "id": 1,
+            "titulo": "Farmácia recebe nota 4 na avaliação do MEC",
+            "subtitulo": "A avaliação do MEC é realizada com base em três dimensões: organização didático-pedagógica; corpo docente e tutorial; e infraestrutura",
+            "texto": "O ministério da Educação (MEC) atribuiu ao curso de Farmácia do UNIESP a nota 4, na sua avaliação de reconhecimento. "
+        },
+        {
+            "id": 2,
+            "titulo": "Medicina Veterinária recebe Nota máxima do MEC",
+            "subtitulo": "Ministério da Educação atribuiu a nota 5 à graduação, em avaliação de reconhecimento, que leva em consideração equipe, alunos e estrutura",
+            "texto": "A avaliação do MEC é realizada com base em três dimensões: organização didático-pedagógica; corpo docente e tutorial; e infraestrutura"
+        },
+        {
+            "id": 3,
+            "titulo": "Alunos de psicologia realizam visita técnica à São Braz",
+            "subtitulo": "O encontro teve como tema 'Recursos Humanos Estratégico', e foi sugerido pela gerente de RH da empresa",
+            "texto": "Alunos do curso de psicologia da UNIESP realizaram na última segunda-feira(22) uma visita técnica na fábrica do grupo São Braz. "
+        }
+    ]
+}
