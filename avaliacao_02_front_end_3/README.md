@@ -24,8 +24,11 @@ Utilizar um pouco de cada artefato do React que aprendemos nas aulas.
 5. Para finalizar, basta fechar os terminais abertos.
 
 ## Autores
+
+* [Ana Caroline](https://github.com/carolineanali)
 * [Andréa Monteiro](https://github.com/andreasmonteiro)
 * [Gabryella Waleska](https://github.com/gabryellabarbosa)
+* [Nádya Leôncio](https://github.com/nadyabpm)
 * [Rayssa Alcântara](https://github.com/rayssawho)
 
 <img align="right" alt="grogu" height="250" style="border-radius:50px;" src="https://media2.giphy.com/media/DTuTMRAQ4EVGBbtpkg/giphy.gif?cid=ecf05e47m0l41tvqw81ym9kjr8xzqkerq13z76ciddbxsc7d&ep=v1_stickers_search&rid=giphy.gif&ct=s">
