@@ -1,0 +1,148 @@
+{
+    "pokemons": [
+        {
+            "id": 1,    
+            "name":"bulbasaur",
+            "url":"https://pokeapi.co/api/v2/pokemon/1/",
+            "img": "https://www.pngplay.com/wp-content/uploads/10/Bulbasaur-Pokemon-PNG-Clipart-Background.png",
+            "evolution": "ivysaur",
+            "description": " O Bulbasaur é um dos pokémons iniciais clássicos da região de Kanto. Ele é um pokémon do tipo Grama/Veneno e é conhecido por sua aparência fofa e peculiar. Bulbasaur possui uma planta bulbosa em suas costas que cresce à medida que ele evolui."
+        },
+
+        {
+            "id": 2,
+            "name":"ivysaur",
+            "url":"https://pokeapi.co/api/v2/pokemon/2/",
+            "img": "https://www.pngmart.com/files/22/Ivysaur-Pokemon-PNG-HD.png",
+            "evolution": "venusaur",
+            "description": "O Ivysaur é a evolução de Bulbasaur e é a segunda forma na linha evolutiva desse pokémon. Assim como Bulbasaur, Ivysaur é do tipo Grama/Veneno. Ivysaur é caracterizado por ser um pouco maior e mais forte do que seu estágio anterior."
+        },
+
+        {
+            "id": 3,
+            "name":"venusaur",
+            "url":"https://pokeapi.co/api/v2/pokemon/3/",
+            "img":"https://www.pngmart.com/files/22/Venusaur-Pokemon-PNG.png",
+            "evolution":"Não tem",
+            "description": "O Venusaur é a forma final de Bulbasaur e Ivysaur, e é um poderoso pokémon do tipo Grama/Veneno. Ele é conhecido por sua aparência majestosa e imponente, com uma grande flor em suas costas que está totalmente florescida."
+        },
+
+        {
+            "id": 4,
+            "name":"charmander",
+            "url":"https://pokeapi.co/api/v2/pokemon/4/",
+            "img":"https://www.pngmart.com/files/13/Pokemon-Charmander-PNG-Pic.png",
+            "evolution":"charmeleon",
+            "description": "O Charmander é um dos três pokémons iniciais da região de Kanto e é conhecido como o pokémon Lagarto. Ele é do tipo Fogo e é adorado por sua aparência adorável e chama na ponta de sua cauda."
+        },
+
+        {
+            "id": 5,
+            "name":"charmeleon",
+            "url":"https://pokeapi.co/api/v2/pokemon/5/",
+            "img":"https://www.pngplay.com/wp-content/uploads/10/Charmeleon-Pokemon-Transparent-File.png",
+            "evolution":"charizard",
+            "description": "Charmeleon é a evolução de Charmander e representa a fase intermediária de seu ciclo de evolução. Ele mantém a sua aparência de lagarto, mas cresce significativamente em tamanho e poder."
+        },
+
+        {
+            "id": 6,
+            "name":"charizard",
+            "url":"https://pokeapi.co/api/v2/pokemon/6/",
+            "img":"https://archives.bulbagarden.net/media/upload/thumb/3/38/0006Charizard.png/1200px-0006Charizard.png",
+            "evolution":"Não tem",
+            "description": "Charizard é um pokémon do tipo Fogo e Voador, combinando características de réptil e dragão em sua aparência imponente. Ele é a forma final da evolução de Charmander e é amplamente reconhecido como um dos pokémons mais icônicos e poderosos da franquia."
+        },
+
+        {
+            "id": 7,
+            "name":"squirtle",
+            "url":"https://pokeapi.co/api/v2/pokemon/7/",
+            "img":"https://assets.stickpng.com/images/580b57fcd9996e24bc43c32a.png",
+            "evolution":"wartortle",
+            "description": "Squirtle é um adorável e popular pokémon inicial da região de Kanto. Ele é um pokémon do tipo Água e é conhecido por sua aparência de tartaruga aquática. Squirtle é um pokémon adorado por sua aparência encantadora, suas habilidades de água e sua personalidade cativante."
+        },
+
+        {
+            "id": 8,
+            "name":"wartortle",
+            "url":"https://pokeapi.co/api/v2/pokemon/8/",
+            "img":"https://www.pngplay.com/wp-content/uploads/12/Wartortle-Pokemon-PNG-Clip-Art-HD-Quality.png",
+            "evolution":"blastoise",
+            "description": "Wartortle é a evolução intermediária do Squirtle e é um Pokémon do tipo Água. Ele também é um excelente nadador e pode mergulhar fundo na água para explorar ambientes aquáticos. Wartortle é conhecido por ser mais sério e focado do que o seu estágio anterior de evolução."
+        },
+
+        {
+            "id": 9,
+            "name":"blastoise",
+            "url":"https://pokeapi.co/api/v2/pokemon/9/",
+            "img":"https://www.pngplay.com/wp-content/uploads/10/Blastoise-Pokemon-Background-PNG-Image.png",
+            "evolution":"Não tem",
+            "description": "Blastoise é a forma final de evolução da linha evolutiva do Squirtle e é um Pokémon do tipo Água.  Ele é um Pokémon sereno, mas também altamente focado e estratégico em suas batalhas. Blastoise valoriza a precisão e o controle, aproveitando ao máximo seus ataques de água para superar seus oponentes."
+        },
+
+        {
+            "id": 10,
+            "name":"caterpie",
+            "url":"https://pokeapi.co/api/v2/pokemon/10/",
+            "img":"https://www.pngmart.com/files/22/Caterpie-Pokemon-PNG-Isolated-Photos.png",
+            "evolution":"metapod",
+            "description": "Caterpie é um pequeno Pokémon do tipo Inseto. Ele é conhecido por sua aparência adorável e por ser um dos Pokémon mais comuns e facilmente encontrados nas áreas de grama. Uma das características mais marcantes de Caterpie é sua capacidade de produzir fios de seda. Ele usa esses fios para criar casulos de proteção e para se balançar entre as árvores. Os fios de seda também são usados por Caterpie para se defender, criando um emaranhado emaranhado que pode confundir seus predadores."
+        },
+
+        {
+            "id": 11,
+            "name":"metapod",
+            "url":"https://pokeapi.co/api/v2/pokemon/11/",
+            "img":"https://www.pngmart.com/files/22/Metapod-Pokemon-PNG-Pic.png",
+            "evolution":"butterfree",
+            "description": "O Metapod é a forma evoluída de Caterpie e é conhecido por sua aparência única e estratégia de defesa especializada. Ele é um Pokémon do tipo Inseto. A estratégia de Metapod é focada inteiramente na defesa. Ele usa sua casca dura para proteger-se de predadores e ataques inimigos."
+        },
+
+        {
+            "id": 12,
+            "name":"butterfree",
+            "url":"https://pokeapi.co/api/v2/pokemon/12/",
+            "img":"https://www.pngplay.com/wp-content/uploads/10/Butterfree-Pokemon-Free-PNG.png",
+            "evolution":"Não tem",
+            "description": "Butterfree é um Pokémon do tipo Inseto e Voador e é a forma evoluída de Metapod. Ele é conhecido por sua beleza e suas habilidades únicas. Uma das características mais marcantes de Butterfree é sua habilidade de voar com graça e agilidade. Suas asas permitem que ele se mova rapidamente pelo ar, tornando-o um Pokémon ágil tanto no combate quanto na exploração."
+        },
+
+        {
+            "id": 13,
+            "name":"jigglypuff",
+            "url":"https://pokeapi.co/api/v2/pokemon/39/",
+            "img":"https://www.pngplay.com/wp-content/uploads/11/Jigglypuff-Pokemon-Background-PNG-Image.png",
+            "evolution":"wigglytuff",
+            "description": "Jigglypuff é um Pokémon do tipo Normal e Fada conhecido por sua aparência adorável e habilidades vocais únicas. Além de sua habilidade de canto, Jigglypuff também é capaz de inflar seu corpo, ficando ainda mais redondo. Essa característica permite que ele flutue pelo ar, dando a impressão de que está voando. No entanto, sua aparência fofa e inocente pode enganar, pois Jigglypuff pode ficar facilmente irritado se alguém desenhar em seu rosto enquanto está dormindo. "
+        },
+        
+        {
+            "id": 14,
+            "name":"wigglytuff",
+            "url":"https://pokeapi.co/api/v2/pokemon/40/",
+            "img": "https://www.pngplay.com/wp-content/uploads/12/Wigglytuff-Pokemon-Clip-Art-Transparent-PNG.png",
+            "evolution": "Não tem",
+            "description": "Wigglytuff é um Pokémon do tipo Normal e Fada, e é a forma evoluída do Jigglypuff. Ele mantém a aparência fofa e redonda de seu estágio anterior, mas cresce em tamanho e força. Além de sua voz poderosa, Wigglytuff é conhecido por sua pele elástica que permite que ele inflame seu corpo. Essa característica o ajuda a absorver os ataques dos oponentes e proteger-se de danos. "
+        },
+
+        {
+            "id": 15,
+            "name":"pikachu",
+            "url":"https://pokeapi.co/api/v2/pokemon/25/",
+            "img": "https://www.pngplay.com/wp-content/uploads/11/Pikachu-Pokemon-Free-PNG.png",
+            "evolution": "raichu",
+            "description": "Pikachu é um dos Pokémon mais icônicos e populares da franquia. Ele é um Pokémon do tipo Elétrico e é conhecido por sua aparência fofa e suas bochechas rosadas que armazenam eletricidade."
+        },
+        
+        {
+            "id": 16,
+            "name":"raichu",
+            "url":"https://pokeapi.co/api/v2/pokemon/26/",
+            "img":"https://www.pngplay.com/wp-content/uploads/11/Raichu-Pokemon-Background-PNG-Image.png",
+            "evolution": "Não tem",
+            "description": "Raichu é a forma evoluída do Pokémon Pikachu. Assim como Pikachu, Raichu também é do tipo Elétrico. A evolução ocorre quando o Pikachu é exposto a uma Pedra do Trovão. Raichu possui uma quantidade ainda maior de eletricidade em seu corpo em comparação com Pikachu. Isso resulta em ataques elétricos mais poderosos e maior resistência. "
+        }
+
+    ]
+}

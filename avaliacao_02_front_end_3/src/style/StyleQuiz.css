@@ -1,0 +1,79 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #293952;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ff6f00;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #ff8124;
+  }
+  
+  /* Estilos para as perguntas */
+  .pergunta {
+    margin-bottom: 20px;
+  }
+  
+  .pergunta h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .opcoes {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .opcoes li {
+    margin-bottom: 10px;
+  }
+  
+  .opcao-label {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .opcao-input {
+    margin-right: 5px;
+  }
+  
+  /* Estilo para exibir resultado */
+  .resultado {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  

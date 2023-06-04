@@ -1,0 +1,270 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #293952;
+    margin: 0;
+    padding: 0;
+  }
+
+  .topo {
+    max-width: 100%;
+    align-items: center;
+  }
+  .imgTopo {
+    display: flex;
+    max-width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+     
+  }
+
+  .rodape {
+    position: static;
+    display: flex;
+    background-color: #FF7E3C;
+    width: 100%;
+    justify-content: center;
+    bottom: 0;
+    margin-top: 40px;
+  }
+
+  .rodape p {
+    font-size: 14px;
+    color: #FFF;
+  }
+ 
+  .barraNav {
+    background-color: #FFC13E;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+  }
+  
+  .barraNav a {
+    background-color: #FF7E3C;
+    color: #FFF;
+    text-decoration: none;
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  .barraNav a:hover {
+    background-color: #ddd;
+  }
+  
+  .barraNav a.active {
+    font-weight: bold;
+  }
+  
+  
+  .container {
+    text-align: center;
+  }
+  
+  .container h1 {
+    color: #FFF;
+    font-size: 35px;
+    margin-bottom: 10px;
+  }
+  
+  .container h2 {
+    color: #FFF;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .imgHome {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .pokemonsCss {
+    text-align: center;
+  }
+  
+  .pokemonsCss h1 {
+    color: #fff;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  h3 {
+    color: #FFF;
+    font-size: 16px;
+  }
+  
+  .pokemonCss2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  .pokemonCss2 h2 {
+    background-color: #78AFD5;
+    font-size: 18px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .pokemonCss2 h2 a {
+    text-decoration: none;
+    color: #293952;
+    display: flex;
+    align-items: center;
+    padding: 6px;
+  }
+  
+  .pokemonCss2 h2 a:hover {
+    background-color: #426798;
+    color: #FFC13E;
+    
+  }
+  
+  .imgPokemini {
+    width: auto;
+    height: 30px;
+    margin-left: 5px;
+  }
+  
+  .cadaPokemon {
+    text-align: center;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .cadaPokemon h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .cadaPokemon img {
+    width: auto;
+    height: 350px;
+    margin-bottom: 10px;
+    border-radius: 10%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .cadaPokemon p {
+    font-size: 18px;
+    text-align: justify;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: auto;
+    color: #666;
+  }
+  
+  .cadaPokemon h3 {
+    font-size: 20px;
+    color: #333;
+  }
+  
+  .estiloQuiz {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .estiloRegra {
+    background-color: #9ccdf0;
+    margin-bottom: 50px;
+    font-size: 12px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  .estiloPergunta {
+    margin-bottom: 20px;
+    color: #293952;
+    
+  }
+  
+  h1 {
+    font-size: 28px;
+    color: #426798;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 20px;
+    color: #293952;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 14px;
+    color: #293952;
+    line-height: 1.5;
+  }
+  
+  button {
+    background-color: #FF7E3C;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 30px;
+    
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .estiloQuiz {
+      padding: 10px;
+    }
+  
+    h1 {
+      font-size: 24px;
+    }
+  
+    h2 {
+      font-size: 18px;
+    }
+  }
+
+  .estiloCredito {
+    background-color: #FFF;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  .estiloCredito h1 {
+    color: #293952;
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .estiloCredito h2 {
+    color: #426798;
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  .estiloCredito h4 {
+    color: #5d646f;
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .estiloCredito p {
+    color: #293952;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  
